@@ -21,7 +21,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
 SMSBOWER_API_KEY = os.getenv("SMSBOWER_API_KEY", "YOUR_API_KEY_HERE")
 
 # 🔒 Only this Telegram ID can use the bot. Put your own ID below.
-OWNER_ID = 5218822873
+OWNER_ID = 5253876797
 ALLOWED_IDS = {OWNER_ID}
 
 API_URL = "https://smsbower.page/stubs/handler_api.php"
